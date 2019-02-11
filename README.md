@@ -28,4 +28,18 @@ animate.css, https://github.com/colegregory/animate.css
 | User Base | 1 | Large Development team but no noticeable interface/website for users |
 | Total Score | 13 | Decent score |
 
+tensorflow, https://github.com/tensorflow/tensorflow
+
+| Evaluation Factor | Level (0-2) | Evaluation Data  |
+| :---:   | :-: | :-: |
+| Apache-2.0 | 2 | tensorflow uses the Apache-2.0 open source license |
+| Language | 2 | Uses C++, Python, HTML, Jupyter Notebook, Go, Java, and 1.5% of Other languages |
+| Level of Activity | 2 | Community very actively committing within the last year |
+| Number of Contributors | 2 | Has 49967 contributors |
+| Product Size | 1 | Has 3184 lines of code. 299.31 MB |
+| Issue Tracker | 2 | 1794 Open issues, 14045 Closed issues, issues are resolved quickly |
+| New Contributor | 2 | Has installation instructions, many contributors, and contribution guidelines |
+| Community Norms | 2 | Has code of conduct |
+| User Base | 2 | Uses TensorFlow Discuss and Stack Overflow websites for user base to ask/answer questions |
+| Total Score | 17 | Excellent score |
 
