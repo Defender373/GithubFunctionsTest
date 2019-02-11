@@ -2,7 +2,7 @@ CrowdCop, https://github.com/bocaaust/CrowdCop
 
 | Evaluation Factor | Level (0-2) | Evaluation Data  |
 | :---:   | :-: | :-: |
-| Apache-2.0 | 2 | CrowdCop uses the Apache-2.0 open source license |
+| License | 2 | CrowdCop uses the Apache-2.0 open source license |
 | Language | 2 | Uses JavaScript, PHP, HTML, CSS, and Python |
 | Level of Activity | 0 | No commits within the last year |
 | Number of Contributors | 1 | Has 4 contributors |
@@ -17,7 +17,7 @@ animate.css, https://github.com/colegregory/animate.css
 
 | Evaluation Factor | Level (0-2) | Evaluation Data  |
 | :---:   | :-: | :-: |
-| MIT | 2 | animate.css uses the MIT open source license |
+| License | 2 | animate.css uses the MIT open source license |
 | Language | 2 | Uses JavaScript and CSS |
 | Level of Activity | 2 | No commits within the last year |
 | Number of Contributors | 2 | Has 67 contributors |
@@ -32,7 +32,7 @@ tensorflow, https://github.com/tensorflow/tensorflow
 
 | Evaluation Factor | Level (0-2) | Evaluation Data  |
 | :---:   | :-: | :-: |
-| Apache-2.0 | 2 | tensorflow uses the Apache-2.0 open source license |
+| License | 2 | tensorflow uses the Apache-2.0 open source license |
 | Language | 2 | Uses C++, Python, HTML, Jupyter Notebook, Go, Java, and 1.5% of Other languages |
 | Level of Activity | 2 | Community very actively committing within the last year |
 | Number of Contributors | 2 | Has 49967 contributors |
