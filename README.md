@@ -1,4 +1,5 @@
 CrowdCop, https://github.com/bocaaust/CrowdCop
+
 | Evaluation Factor | Level (0-2) | Evaluation Data  |
 | :---:   | :-: | :-: |
 | Apache-2.0 | 2 | CrowdCop uses the Apache-2.0 open source license |
@@ -13,6 +14,7 @@ CrowdCop, https://github.com/bocaaust/CrowdCop
 | Total Score | 11 | Decent score |
 
 animate.css, https://github.com/colegregory/animate.css
+
 | Evaluation Factor | Level (0-2) | Evaluation Data  |
 | :---:   | :-: | :-: |
 | MIT | 2 | animate.css uses the MIT open source license |
