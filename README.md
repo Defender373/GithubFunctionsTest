@@ -1,2 +1,3 @@
-# GithubFunctionsTest
-A repo for me to test how to perform certain functions in GitHub
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
