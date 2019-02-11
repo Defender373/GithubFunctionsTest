@@ -26,7 +26,6 @@ animate.css, https://github.com/colegregory/animate.css
 | New Contributor | 2 | New contributors joined in 2016 when active, has installation instructions |
 | Community Norms | 1 | No rude behavior or stated code of conduct |
 | User Base | 1 | Large Development team but no noticeable interface/website for users |
-| Total Score | 13 | animate.css uses the MIT open source license |
-| MIT | 2 | Decent score |
+| Total Score | 13 | Decent score |
 
 
