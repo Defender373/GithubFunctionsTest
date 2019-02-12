@@ -36,10 +36,10 @@ tensorflow, https://github.com/tensorflow/tensorflow
 | Language | 2 | Uses C++, Python, HTML, Jupyter Notebook, Go, Java, and 1.5% of Other languages |
 | Level of Activity | 2 | Community very actively committing within the last year |
 | Number of Contributors | 2 | Has 49967 contributors |
-| Product Size | 1 | Has 1,889,608 lines of code. 299.31 MB |
+| Product Size | 2 | Has 1,889,608 lines of code. 299.31 MB |
 | Issue Tracker | 2 | 1794 Open issues, 14045 Closed issues, issues are resolved quickly |
 | New Contributor | 2 | Has installation instructions, many contributors, and contribution guidelines |
 | Community Norms | 2 | Has code of conduct |
 | User Base | 2 | Uses TensorFlow Discuss and Stack Overflow websites for user base to ask/answer questions |
-| Total Score | 17 | Excellent score |
+| Total Score | 18 | Excellent score |
 
